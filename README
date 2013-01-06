@@ -1,0 +1,23 @@
+/*********************************************************************************************/
+More information regarding the use of LazerBass will be updated closer to project
+completion. The information provided below is an overview of LazerBass.
+/*********************************************************************************************/
+In 2009, a man under the handle Jeff-o posted a project to a website named instructables.com. 
+The project was a fully electric bass guitar without strings. 
+Using a digital rangefinder, lasers and a circuit he designed, he was able to play music with 
+some accuracy. Overall he considers the project a success, however he made note of some aspects 
+of the design he would like improved in future revisions. We plan to pick up where this project left off, 
+and further improve the concept in four major ways:
+
+1. Replacing the digital rangefinder subsystem for determining pitch with a grid of tactile switches for increased accuracy. 
+2. Converting the mostly analog circuit design to digital for reduced delay and cost
+3. Provide chord functionality by adding additional oscillators per string. 
+4. Addition of a microprocessor control subsystem to decrease delay between creating and hearing the sound. 
+
+The team tasked with constructing this project will be composed of undergraduate RIT students from various backgrounds 
+such as electrical, software and computer engineering. The current project leads are Caroline Lichtenberger; a 4th year 
+Electrical engineer, and Andrew Lyne III; a 4th year Software and Electrical Engineering major. Professors from the  SE 
+and CET departments have signed on as faculty advisors to ensure good design practices and functional product. Initial 
+cost and time estimates can only be so accurate not knowing the exact components needed. Considering this, we estimate the 
+project to cost approximately $500 and to completed approximately five months from approval with the overall goal of 
+being completed in time for ImagineRIT. 
